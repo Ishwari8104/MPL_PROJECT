@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891613711676",
+    "project_id": "furniturecopy",
+    "storage_bucket": "furniturecopy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891613711676:android:669f8a4d427444ffef6239",
+        "android_client_info": {
+          "package_name": "com.example.furnitureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjZvDfZhziFs8Z2DExfURPrp657Lu_vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
